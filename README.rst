@@ -31,7 +31,7 @@ pyiron
     :alt: Screenshot of pyiron running inside jupyterlab.
 
 
-pyiron - an integrated development environment (IDE) for computational materials science. It combines several tools in a common platform:
+pyiron - an integrated development environment (IDE) for computational materials science. This is a fork for the hackathon at the "Construction and deconstruction of interatomic potentials" workshop. It combines several tools in a common platform:
 
  - Atomic structure objects – compatible to the `Atomic Simulation Environment (ASE) <https://wiki.fysik.dtu.dk/ase/>`_.
  - Atomistic simulation codes – like `LAMMPS <http://lammps.sandia.gov>`_ and `VASP <https://www.vasp.at>`_.
